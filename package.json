@@ -20,5 +20,8 @@
   "dependencies": {
     "qrcode-npm": "0.0.3",
     "snack-sdk": "0.0.8"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0"
   }
 }
