@@ -1,0 +1,24 @@
+{
+  "name": "snack-sdk-es5-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "browserify index.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseruder/snack-sdk-es5-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseruder/snack-sdk-es5-example/issues"
+  },
+  "homepage": "https://github.com/jesseruder/snack-sdk-es5-example#readme",
+  "dependencies": {
+    "qrcode-npm": "0.0.3",
+    "snack-sdk": "0.0.8"
+  }
+}
