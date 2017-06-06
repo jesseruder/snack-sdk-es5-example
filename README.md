@@ -1,6 +1,5 @@
 # snack-sdk-es5-example
 
-`npm i`
-`npm run browserify`
+Open up index.html in a browser to test.
 
-Open up index.html in a browser
+If you make changes to `index.js`, run `npm i` and `npm run browserify` to rebuild `bundle.js`.
